@@ -1,2 +1,0 @@
-# arrowescape
-App-ads.txt
